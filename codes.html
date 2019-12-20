@@ -1,0 +1,45 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Codes</title>
+</head>
+<body>
+<div style=font-size:15px>
+<body style="width:1000px; margin:15px; left-margin:0">
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Menu</div>
+<div class="menu-item"><a href="index.html" >Home</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="codes.html" class="current">Codes</a></div>
+<div class="menu-item"><a href="coursesmaterials.html">Course Materials</a></div>
+<div class="menu-item"><a href="UsefulLinks.html">Useful Links</a></div>
+</td>
+<td id="layout-content">
+<p><h1>Codes</h1></p>
+<p><h3>Data-based distributionally robust stochastic optimal power flow (OPF) package</h3></p>
+<p></p>
+<p>The distributionally robust stochastic optimal power flow (OPF) package is developed at <a href="http://www.utdallas.edu/~tyler.summers/index.html">Control, Optimization and Networks Laboratory</a>, <a href="http://utdallas.edu">The University of Texas at Dallas</a>. This framework uses MATLAB to solve a multi-stage stochastic OPF problem based on limited information about forecast error distributions, which explicitly combines multi-stage feedback policies with any forecasting method and historical forecast error data. The objective is to determine power scheduling policies for controllable devices in a power network to balance operational cost and conditional value-at-risk (CVaR) of device and network constraint violations. These decisions include both nominal power schedules and reserve policies, which specify planned reactions to forecast errors in order to accommodate fluctuating renewable energy sources (RESs). Instead of assuming the uncertainties across the networks follow prescribed probability distributions, we consider ambiguity sets of distributions centered around a finite training dataset. By utilizing the Wasserstein metric to quantify differences between the empirical data-based distribution and the real unknown data-generating distribution. We formulate a multi-stage distributionally robust OPF problem to compute optimal control policies that are robust to both forecast errors and sampling errors inherent in the dataset. This package includes two sub-packages, especially desgined for distribution networks and transmission systems, respectively.</p>
+
+<p>MIT License</p>
+
+<p>Copyright (c) 2018, Yi Guo, Tyler Summers (PI), Control, Optimization and Networks Laboratory, Department of Mechanical Engineering, The University of Texas at Dallas, Richardson, TX, USA.</p>
+
+<p>Emails: <a href="mailto:yxg162630@utdallas.edu">yi.guo2@utdallas.edu</a>, <a href="mailto:tyler.summers@utdallas.edu">tyler.summers@utdallas.edu</a>.</p>
+
+<p>Comments and questions are all welcome!</p>
+<p>For more information, follow the links: <a href="http://www.utdallas.edu/~tyler.summers/code.html">Control, Optimization and Networks Lab code page </a>, <a href="https://github.com/TSummersLab/Distributionally-robust-stochastic-OPF">lab Github repository</a>.</p>
+
+
+</ul>
+</td>
+</tr>
+</table>
+</body>
+</html>

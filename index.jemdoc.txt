@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Venkatraman Renganathan
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{131}{160}{https://sites.google.com/site/venkatramanrenganathan/}
+PhD Student,\n [http://me.utdallas.edu/ Mechanical Engineering Department], \n[http://www.utdallas.edu/ University of Texas at Dallas (UTD)]\n
+7740, McCallum Blvd\n
+Apt 369, Dallas, Texas - USA \n 
+Phone: \+1 480 628 9124 \n
+E-post: /vrengana/ \[@\] utdallas \[DOT\] edu
+~~~
+
+== About me
+I received my B.E. and M.S. degrees in Electrical Engineering from ([http://gct.ac.in/ Government College of Technology, Coimbatore, Anna University, India]) and [http://www.asu.edu/ Arizona State University, USA] in 2011 and 2016, respectively. Starting from August 2016, I am pursuing my PhD degree in Control Systems under the supervision of [http://www.utdallas.edu/~tyler.summers/bio.html Dr. Tyler Summers] at [http://www.utdallas.edu/ University of Texas at Dallas (UTD)].  
+
+== Research
+My research interests include 
+- Game Theory  
+- Large Scale Dynamical Networks
+- Distributed Control Algorithms
+- Convex Optimization
+- Stochastic Controls
+- Machine Learning
+
+[research.html Find out more].
+=== Recent Publications 
+. Venkatraman Renganathan, \"Kill Zone Analysis for a Bank-to-Turn Missile-Target Engagement\",  MS EE Thesis, Arizona State University, 2016. \[[https://repository.asu.edu/attachments/175032/content/Renganathan_asu_0010N_16277.pdf]\]
+
+[publications.html Full list of publications].
+\n
+[Venkatraman_CV.pdf A brief cv].
+
